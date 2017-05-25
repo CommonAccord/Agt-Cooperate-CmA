@@ -12,7 +12,7 @@ Doc.GUID=Acme-Quake-D0001
 
 //=They "transclude" a Cooperation Agreement form.  (The form could be further developed in a collaboration convened by the IACCM.)
 
-=[G/Agt-Cooperate-CmA/Form/0.md]  
+=[G/Agt-Cooperate-CmA/Form/-Cooperate/0.md]  
 
 //=They click on "Opens" and complete the form.
 
@@ -24,4 +24,4 @@ Law.=[G/U/at/US/MA/Suffolk/Boston/Geo]
 
 //=They select dispute resolution in US Courts.  (And hope that things never degenerate that far.)
 
-Relate.Dispute.Tribunal.Forum.cl={Relate.Dispute.Tribunal.Forum.USCourt.cl}
+Relate.Dispute.Tribunal.=[G/Agt-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
