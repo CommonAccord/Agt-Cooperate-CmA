@@ -24,8 +24,8 @@ P2.xSignature=xSolomon Shirley
 
 P2.Sign.YMD=2017-05-26
 
-SOW.=[G/Agt-Cooperate-CmA/Form/Annex/SOW/0.md]
+SOW.=[G/IACCM-Cooperate-CmA/Form/Annex/SOW/0.md]
 
-=[G/Agt-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
+=[G/IACCM-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
   
 Model.Root={SOW.Sec}

@@ -18,9 +18,9 @@ EffectiveDate.YMD=2016-07-09
 
 Relate.Conf.Life.End.YMD=2018-12-31
 
-Relate.Conf.Engage.Access.=[G/Agt-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-HumanSolely/0.md]
+Relate.Conf.Engage.Access.=[G/IACCM-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-HumanSolely/0.md]
 
-Relate.Conf.Life.=[G/Agt-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]
+Relate.Conf.Life.=[G/IACCM-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]
 
 Relate.Conf.Life.End.YMD=2019-12-31
 
@@ -28,10 +28,10 @@ Relate.Life.Term.End.YMD=2017-12-31
 
 Relate.Life.Terminate.TimeSpan=30 days
 
-Relate.Assign.=[G/Agt-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
+Relate.Assign.=[G/IACCM-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
 
-Relate.Dispute.Cost.=[G/Agt-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
+Relate.Dispute.Cost.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
-Relate.Dispute.Tribunal.=[G/Agt-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
+Relate.Dispute.Tribunal.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
 
-=[G/Agt-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
+=[G/IACCM-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
